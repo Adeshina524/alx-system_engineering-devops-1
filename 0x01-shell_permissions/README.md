@@ -1,1 +1,1 @@
-CHUBBY Software Engineer
+create a script that switches the current user to betty
